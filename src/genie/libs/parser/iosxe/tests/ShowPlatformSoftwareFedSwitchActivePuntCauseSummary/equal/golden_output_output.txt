@@ -1,0 +1,12 @@
+Statistics for all causes
+
+Cause  Cause Info                      Rcvd                 Dropped
+------------------------------------------------------------------------------
+7      ARP request or response         338                  0                   
+11     For-us data                     1038                 0                   
+21     RP<->QFP keepalive              890814               0                   
+24     Glean adjacency                 1                    0                   
+29     RP handled ICMP                 1                    0                   
+55     For-us control                  348133               0                   
+96     Layer2 control protocols        7444963              0                   
+------------------------------------------------------------------------------
