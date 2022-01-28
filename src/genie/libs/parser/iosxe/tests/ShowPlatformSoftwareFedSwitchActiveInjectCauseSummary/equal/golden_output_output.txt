@@ -1,0 +1,10 @@
+Statistics for all causes
+
+Cause  Cause Info                      Rcvd                 Dropped
+------------------------------------------------------------------------------
+1      L2 control/legacy               1511939              0                   
+2      QFP destination lookup          2004                 0                   
+5      QFP <->RP keepalive             890826               0                   
+7      QFP adjacency-id lookup         663543               0                   
+12     ARP request or response         341                  0                   
+------------------------------------------------------------------------------
