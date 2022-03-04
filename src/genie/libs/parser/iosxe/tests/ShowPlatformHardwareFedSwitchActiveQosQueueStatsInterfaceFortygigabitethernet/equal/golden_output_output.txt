@@ -1,0 +1,35 @@
+C9300-1#show platform hardware fed switch active qos queue stats interface FortyGigabitEthernet 1/1/2
+----------------------------------------------------------------------------------------------
+AQM Global counters
+GlobalHardLimit:  6127   |   GlobalHardBufCount: 0
+GlobalSoftLimit: 13721   |   GlobalSoftBufCount: 0
+
+----------------------------------------------------------------------------------------------
+High Watermark Soft Buffers:  Port Monitor Disabled
+----------------------------------------------------------------------------------------------
+Asic:0 Core:0 DATA Port:37 Hardware Enqueue Counters
+----------------------------------------------------------------------------------------------
+ Q Buffers          Enqueue-TH0          Enqueue-TH1          Enqueue-TH2             Qpolicer
+   (Count)              (Bytes)              (Bytes)              (Bytes)              (Bytes)
+-- ------- -------------------- -------------------- -------------------- --------------------
+ 0       0                    0               104748             11638025                    0
+ 1       0                    0                    0                27669                    0
+ 2       0                    0                    0                    0                    0
+ 3       0                    0                    0                    0                    0
+ 4       0                    0                    0                    0                    0
+ 5       0                    0                    0                    0                    0
+ 6       0                    0                    0                    0                    0
+ 7       0                    0                    0                    0                    0
+Asic:0 Core:0 DATA Port:37 Hardware Drop Counters
+--------------------------------------------------------------------------------------------------------------------------------
+ Q             Drop-TH0             Drop-TH1             Drop-TH2             SBufDrop              QebDrop         QpolicerDrop
+                (Bytes)              (Bytes)              (Bytes)              (Bytes)              (Bytes)              (Bytes)
+-- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+ 0                    0                    0                    0                    0                    0                    0
+ 1                    0                    0                    0                    0                    0                    0
+ 2                    0                    0                    0                    0                    0                    0
+ 3                    0                    0                    0                    0                    0                    0
+ 4                    0                    0                    0                    0                    0                    0
+ 5                    0                    0                    0                    0                    0                    0
+ 6                    0                    0                    0                    0                    0                    0
+ 7                    0                    0                    0                    0                    0                    0
